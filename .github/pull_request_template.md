@@ -1,4 +1,5 @@
 ### Bug description
+Add a new file inside views
 
 ### Root cause
 
